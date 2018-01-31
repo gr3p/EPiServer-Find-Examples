@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindDev", "FindDev\FindDev.csproj", "{71559A3A-6811-4C24-99B2-38473E8E901D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6DD19D48-1183-4D1E-8A5C-FDB524D38F4D}"
+	ProjectSection(SolutionItems) = preProject
+		NorthWind.cs = NorthWind.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71559A3A-6811-4C24-99B2-38473E8E901D}.Debug|x86.ActiveCfg = Debug|x86
+		{71559A3A-6811-4C24-99B2-38473E8E901D}.Debug|x86.Build.0 = Debug|x86
+		{71559A3A-6811-4C24-99B2-38473E8E901D}.Release|x86.ActiveCfg = Release|x86
+		{71559A3A-6811-4C24-99B2-38473E8E901D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B4D81DC-1E77-442D-8B02-8F37EF4A71DB}
+	EndGlobalSection
+EndGlobal
